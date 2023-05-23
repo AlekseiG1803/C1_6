@@ -1,17 +1,12 @@
-﻿int number1 = 1;
-//new Random().Next(1, 10);
+﻿int number1 = new Random().Next(1, 10);
 Console.WriteLine(number1);
-int number2 = 3;
-//new Random().Next(1, 10);
+int number2 = new Random().Next(1, 10);
 Console.WriteLine(number2);
-int number3 = 6;
-//new Random().Next(1, 10);
+int number3 = new Random().Next(1, 10);
 Console.WriteLine(number3);
-int number4 = 9;
-//new Random().Next(1, 10);
+int number4 = new Random().Next(1, 10);
 Console.WriteLine(number4);
-int number5 = 4;
-//new Random().Next(1, 10);
+int number5 = new Random().Next(1, 10);
 Console.WriteLine(number5);
 
 int max = number1;
